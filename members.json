@@ -10,8 +10,8 @@
     "idNumber": "594771CQ",
     "email": "bverchambre0@alibaba.com",
     "phoneNumber": "+256 (776) 361-0286",
-    "roles": "admin",
-    "preferences": true
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"dark", "ui.language":"en_EN"}
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ce8" },
@@ -24,8 +24,8 @@
     "idNumber": "323294DO",
     "email": "scaudrelier1@github.io",
     "phoneNumber": "+86 (646) 848-2950",
-    "roles": "admin",
-    "preferences": false
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"light", "ui.language":"hu_HU"}
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ce9" },
@@ -38,8 +38,8 @@
     "idNumber": "589376QN",
     "email": "ndunton2@latimes.com",
     "phoneNumber": "+86 (120) 344-7474",
-    "roles": "admin",
-    "preferences": true
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"dark", "ui.language":"hu_HU"}
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7cea" },
@@ -52,8 +52,8 @@
     "idNumber": "486531ZC",
     "email": "fohoolahan3@tuttocitta.it",
     "phoneNumber": "+55 (407) 430-8155",
-    "roles": "admin",
-    "preferences": false
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"dark", "ui.language":"hu_HU"}
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ceb" },
@@ -66,8 +66,8 @@
     "idNumber": "866925HP",
     "email": "tbrucker4@umich.edu",
     "phoneNumber": "+84 (728) 209-0572",
-    "roles": "admin",
-    "preferences": false
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"dark", "ui.language":"hu_HU"}
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7cec" },
@@ -80,8 +80,8 @@
     "idNumber": "258379NW",
     "email": "egooddy5@sakura.ne.jp",
     "phoneNumber": "+7 (422) 541-5672",
-    "roles": "admin",
-    "preferences": false
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"dark", "ui.language":"en_EN"}
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ced" },
@@ -94,8 +94,8 @@
     "idNumber": "569613ER",
     "email": "dakid6@bandcamp.com",
     "phoneNumber": "+7 (560) 377-6791",
-    "roles": "admin",
-    "preferences": true
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"dark", "ui.language":"hu_HU"}
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7cee" },
@@ -108,7 +108,7 @@
     "idNumber": "947213AW",
     "email": "tburles7@studiopress.com",
     "phoneNumber": "+86 (139) 439-1440",
-    "roles": "admin",
-    "preferences": false
+    "roles": ["member","manager"],
+    "preferences": {"ui.theme":"light", "ui.language":"hu_HU"}
   }
 ]
