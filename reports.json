@@ -4,7 +4,6 @@
     "dutyId": { "$oid": "652f85c4fc13ae3d596c7d05" },
     "method": "bicycle",
     "independent": true,
-    "target": "Rendezvénybiztosítás",
     "description": "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
     "imageURLs": []
   },
@@ -13,7 +12,6 @@
     "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce1" },
     "method": "pedestrian",
     "independent": true,
-    "target": "Iskolaszolgálat",
     "imageURLs": []
   },
   {
@@ -21,7 +19,6 @@
     "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce6" },
     "method": "pedestrian",
     "independent": true,
-    "target": "Járőrőzés a laktelepen",
     "description": "Pellentesque ultrices mattis odio.",
     "imageURLs": []
   },
@@ -33,7 +30,6 @@
     "startKm": 292233,
     "endKm": 116991,
     "independent": true,
-    "target": "Rendezvénybiztosítás",
     "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",
     "imageURLs": [
       "http://dummyimage.com/141x147.png/5fa2dd/ffffff",
@@ -48,7 +44,6 @@
     "startKm": 19134,
     "endKm": 747949,
     "independent": true,
-    "target": "Maecenas tincidunt lacus at velit.",
     "imageURLs": ["http://dummyimage.com/245x178.png/cc0000/ffffff"]
   },
   {
@@ -59,7 +54,6 @@
     "startKm": 837777,
     "endKm": 936136,
     "independent": true,
-    "target": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
     "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
     "imageURLs": []
   },
@@ -68,7 +62,6 @@
     "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce3" },
     "method": "bicycle",
     "independent": true,
-    "target": "Sed ante.",
     "description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst."
   },
   {
@@ -81,7 +74,6 @@
     "independent": false,
     "externalOrganization": "rendőrség",
     "externalRepresentative": "Kiss Gergő",
-    "target": "In est risus, auctor sed, tristique in, tempus sit amet, sem.",
     "description": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
     "imageURLs": [
       "http://dummyimage.com/172x204.png/5fa2dd/ffffff",
@@ -94,7 +86,6 @@
     "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce9" },
     "method": "bicycle",
     "independent": true,
-    "target": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
     "description": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
     "imageURLs": [
       "http://dummyimage.com/191x229.png/5fa2dd/ffffff",
@@ -109,7 +100,6 @@
     "startKm": 344133,
     "endKm": 938786,
     "independent": true,
-    "target": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
     "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
     "imageURLs": ["http://dummyimage.com/132x141.png/5fa2dd/ffffff"]
   }
