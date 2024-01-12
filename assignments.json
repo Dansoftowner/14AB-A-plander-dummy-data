@@ -6,7 +6,9 @@
     "association": { "$oid": "652f7b95fc13ae3ce86c7cdf" },
     "start": { "$date": "2022-12-27T09:06:36.000Z" },
     "end": { "$date": "2022-12-27T10:06:36.000Z" },
-    "assignees": [{ "_id": { "$oid": "652f866cfc13ae3ce86c7ce7" } }]
+    "assignees": [
+      { "_id": { "$oid": "652f866cfc13ae3ce86c7ce7" }, "name": "Horváth Csaba" }
+    ]
   },
   {
     "_id": { "$oid": "652fc6f2fc13ae3c0c6c8ab6" },
@@ -16,8 +18,8 @@
     "start": { "$date": "2022-11-19T12:25:59.000Z" },
     "end": { "$date": "2022-11-19T13:25:59.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f866cfc13ae3ce86c7cee" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" } }
+      { "_id": { "$oid": "652f866cfc13ae3ce86c7cee" }, "name": "Fehér Attila" },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" }, "name": "Gábor Tóth" }
     ]
   },
   {
@@ -28,8 +30,11 @@
     "start": { "$date": "2023-01-02T12:21:55.000Z" },
     "end": { "$date": "2023-01-02T15:21:55.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" } }
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" }, "name": "Gábor Tóth" },
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" },
+        "name": "Katalin Farkas"
+      }
     ]
   },
   {
@@ -40,9 +45,12 @@
     "start": { "$date": "2022-11-21T05:24:59.000Z" },
     "end": { "$date": "2022-11-21T06:24:59.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7cf2" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7d01" } }
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" },
+        "name": "Katalin Farkas"
+      },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7cf2" }, "name": "Nóra Török" },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7d01" }, "name": "Péter Lakatos" }
     ]
   },
   {
@@ -53,9 +61,9 @@
     "start": { "$date": "2023-04-24T04:58:26.000Z" },
     "end": { "$date": "2023-04-24T07:58:26.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7d03" } },
-      { "_id": { "$oid": "652f866cfc13ae3ce86c7cee" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" } }
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7d03" }, "name": "Gábor Simon" },
+      { "_id": { "$oid": "652f866cfc13ae3ce86c7cee" }, "name": "Fehér Attila" },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" }, "name": "Gábor Tóth" }
     ]
   },
   {
@@ -66,10 +74,16 @@
     "start": { "$date": "2023-02-15T06:15:16.000Z" },
     "end": { "$date": "2023-02-15T08:15:16.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7cf2" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7d01" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7d03" } }
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" },
+        "name": "Katalin Farkas"
+      },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7cf2" }, "name": "Nóra Török" },
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7d01" },
+        "name": "Péter Lakatos"
+      },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7d03" }, "name": "Gábor Simon" }
     ]
   },
   {
@@ -80,9 +94,12 @@
     "start": { "$date": "2023-04-14T06:48:23.000Z" },
     "end": { "$date": "2023-04-14T08:48:23.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f866cfc13ae3ce86c7cee" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" } }
+      { "_id": { "$oid": "652f866cfc13ae3ce86c7cee" }, "name": "Fehér Attila" },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" }, "name": "Gábor Tóth" },
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" },
+        "name": "Katalin Farkas"
+      }
     ]
   },
   {
@@ -93,9 +110,15 @@
     "start": { "$date": "2023-04-27T13:35:12.000Z" },
     "end": { "$date": "2023-04-27T14:35:12.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f866cfc13ae3ce86c7ce9" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7cfe" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce3" } }
+      {
+        "_id": { "$oid": "652f866cfc13ae3ce86c7ce9" },
+        "name": "Reizinger Szabolcs"
+      },
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7cfe" },
+        "name": "Viktória Kovács"
+      },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce3" }, "name": "Péter Szabó" }
     ]
   },
   {
@@ -106,9 +129,15 @@
     "start": { "$date": "2022-11-27T04:38:27.000Z" },
     "end": { "$date": "2022-11-27T04:38:27.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7cf2" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7d01" } }
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" },
+        "name": "Katalin Farkas"
+      },
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7cf2" },
+        "name": "Nóra Török"
+      },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7d01" }, "name": "Péter Lakatos" }
     ]
   },
   {
@@ -119,8 +148,11 @@
     "start": { "$date": "2022-12-26T10:19:30.000Z" },
     "end": { "$date": "2022-12-26T12:19:30.000Z" },
     "assignees": [
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7cf9" } },
-      { "_id": { "$oid": "652f85c4fc13ae3d596c7d04" } }
+      {
+        "_id": { "$oid": "652f85c4fc13ae3d596c7cf9" },
+        "name": "Attila Balázs"
+      },
+      { "_id": { "$oid": "652f85c4fc13ae3d596c7d04" }, "name": "Zsófia Nagy" }
     ]
   }
 ]
