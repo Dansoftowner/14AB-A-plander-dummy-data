@@ -1,35 +1,35 @@
 [
   {
     "_id": { "$oid": "653104dbfc13ae1d116c812c" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7d05" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7d05" },
     "method": "bicycle",
-    "independent": true,
+    "":"",
     "description": "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
     "imageURLs": []
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c812d" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce1" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7ce1" },
     "method": "pedestrian",
-    "independent": true,
+
     "imageURLs": []
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c812e" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce6" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7ce6" },
     "method": "pedestrian",
-    "independent": true,
+
     "description": "Pellentesque ultrices mattis odio.",
     "imageURLs": []
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c812f" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7cfe" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7cfe" },
     "method": "vehicle",
     "licensePlateNumber": "1GTN1TEX0CZ585124",
     "startKm": 292233,
     "endKm": 116991,
-    "independent": true,
+
     "description": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo.",
     "imageURLs": [
       "http://dummyimage.com/141x147.png/5fa2dd/ffffff",
@@ -38,40 +38,40 @@
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c8130" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce7" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7ce7" },
     "method": "vehicle",
     "licensePlateNumber": "SCBZB25E61C147783",
     "startKm": 19134,
     "endKm": 747949,
-    "independent": true,
+
     "imageURLs": ["http://dummyimage.com/245x178.png/cc0000/ffffff"]
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c8131" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7cfb" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7cfb" },
     "method": "vehicle",
     "licensePlateNumber": "JHMZF1C64ES295111",
     "startKm": 837777,
     "endKm": 936136,
-    "independent": true,
+
     "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
     "imageURLs": []
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c8132" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce3" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7ce3" },
     "method": "bicycle",
-    "independent": true,
+
     "description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst."
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c8133" },
-    "dutyId": { "$oid": "652f866cfc13ae3ce86c7ce8" },
+    "assignment": { "$oid": "652f866cfc13ae3ce86c7ce8" },
     "method": "vehicle",
     "licensePlateNumber": "JN8AZ2KR7BT204091",
     "startKm": 921939,
     "endKm": 932649,
-    "independent": false,
+
     "externalOrganization": "rendőrség",
     "externalRepresentative": "Kiss Gergő",
     "description": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
@@ -83,9 +83,9 @@
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c8134" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7ce9" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7ce9" },
     "method": "bicycle",
-    "independent": true,
+
     "description": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
     "imageURLs": [
       "http://dummyimage.com/191x229.png/5fa2dd/ffffff",
@@ -94,12 +94,12 @@
   },
   {
     "_id": { "$oid": "653104dbfc13ae1d116c8135" },
-    "dutyId": { "$oid": "652f85c4fc13ae3d596c7ceb" },
+    "assignment": { "$oid": "652f85c4fc13ae3d596c7ceb" },
     "method": "vehicle",
     "licensePlateNumber": "JN1CV6AP9CM433720",
     "startKm": 344133,
     "endKm": 938786,
-    "independent": true,
+
     "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
     "imageURLs": ["http://dummyimage.com/132x141.png/5fa2dd/ffffff"]
   }
