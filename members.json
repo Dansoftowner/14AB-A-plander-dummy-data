@@ -12,7 +12,7 @@
     "email": "bverchambre0@alibaba.com",
     "phoneNumber": "+36 20 006 1964",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "dark", "ui.language": "en_EN" }
+    "preferences": { "colorMode": "dark", "language": "en_EN" }
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ce8" },
@@ -27,7 +27,7 @@
     "email": "scaudrelier1@github.io",
     "phoneNumber": "+36 56 482 4734",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "light", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "light", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ce9" },
@@ -42,7 +42,7 @@
     "email": "ndunton2@latimes.com",
     "phoneNumber": "+36 45 600 1412",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7cea" },
@@ -57,7 +57,7 @@
     "email": "fohoolahan3@tuttocitta.it",
     "phoneNumber": "+36 49 998 9736",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ceb" },
@@ -72,7 +72,7 @@
     "email": "tbrucker4@umich.edu",
     "phoneNumber": "+36 80 635 1447",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7cec" },
@@ -87,7 +87,7 @@
     "email": "egooddy5@sakura.ne.jp",
     "phoneNumber": "+36 53 409 5212",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "dark", "ui.language": "en_EN" }
+    "preferences": { "colorMode": "dark", "language": "en_EN" }
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7ced" },
@@ -102,7 +102,7 @@
     "email": "dakid6@bandcamp.com",
     "phoneNumber": "+36 98 058 0130",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f866cfc13ae3ce86c7cee" },
@@ -117,7 +117,7 @@
     "email": "tburles7@studiopress.com",
     "phoneNumber": "+36 66 378 5325",
     "roles": ["member", "president"],
-    "preferences": { "ui.theme": "light", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "light", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cdf" },
@@ -132,7 +132,7 @@
     "email": "ahilhouse0@disqus.com",
     "phoneNumber": "+36 55 144 5136",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce0" },
@@ -147,7 +147,7 @@
     "email": "wenrietto1@apple.com",
     "phoneNumber": "+36 21 011 7819",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce1" },
@@ -162,7 +162,7 @@
     "email": "sfreckleton2@pinterest.com",
     "phoneNumber": "+36 53 358 1497",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce2" },
@@ -177,7 +177,7 @@
     "email": "hbaish3@paginegialle.it",
     "phoneNumber": "+36 59 462 3375",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce3" },
@@ -192,7 +192,7 @@
     "email": "jgirardot4@state.tx.us",
     "phoneNumber": "+36 58 621 4071",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce4" },
@@ -207,7 +207,7 @@
     "email": "ksicily5@opera.com",
     "phoneNumber": "+36 74 450 0174",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce5" },
@@ -222,7 +222,7 @@
     "email": "mrosenblad6@cafepress.com",
     "phoneNumber": "+36 03 875 4518",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce6" },
@@ -237,7 +237,7 @@
     "email": "mburrows7@infoseek.co.jp",
     "phoneNumber": "+36 11 969 3643",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce7" },
@@ -252,7 +252,7 @@
     "email": "aarnout8@theglobeandmail.com",
     "phoneNumber": "+36 79 189 0751",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce8" },
@@ -267,7 +267,7 @@
     "email": "sberre9@pinterest.com",
     "phoneNumber": "+36 53 617 7107",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ce9" },
@@ -282,7 +282,7 @@
     "email": "lworsnipa@symantec.com",
     "phoneNumber": "+36 94 067 3008",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cea" },
@@ -297,7 +297,7 @@
     "email": "avernyb@ifeng.com",
     "phoneNumber": "+36 72 741 8269",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ceb" },
@@ -312,7 +312,7 @@
     "email": "bthornewellc@accuweather.com",
     "phoneNumber": "+36 85 560 0018",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cec" },
@@ -327,7 +327,7 @@
     "email": "chanlind@salon.com",
     "phoneNumber": "+36 37 699 8354",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7ced" },
@@ -342,7 +342,7 @@
     "email": "estquentine@cdc.gov",
     "phoneNumber": "+36 94 936 0204",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cee" },
@@ -357,7 +357,7 @@
     "email": "tsimonotf@patch.com",
     "phoneNumber": "+36 67 658 2987",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cef" },
@@ -372,7 +372,7 @@
     "email": "deudallg@businessinsider.com",
     "phoneNumber": "+36 11 463 6939",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf0" },
@@ -387,7 +387,7 @@
     "email": "padcocksh@infoseek.co.jp",
     "phoneNumber": "+36 30 288 6079",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf1" },
@@ -402,7 +402,7 @@
     "email": "lblundeli@latimes.com",
     "phoneNumber": "+36 53 223 9710",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf2" },
@@ -417,7 +417,7 @@
     "email": "tgerlerj@usa.gov",
     "phoneNumber": "+36 68 480 0668",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf3" },
@@ -432,7 +432,7 @@
     "email": "jhancek@t.co",
     "phoneNumber": "+36 15 706 7114",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf4" },
@@ -447,7 +447,7 @@
     "email": "ccellil@accuweather.com",
     "phoneNumber": "+36 90 562 8846",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf5" },
@@ -462,7 +462,7 @@
     "email": "awestoffm@un.org",
     "phoneNumber": "+36 35 427 8788",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf6" },
@@ -477,7 +477,7 @@
     "email": "aelien@time.com",
     "phoneNumber": "+36 20 400 7893",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf7" },
@@ -492,7 +492,7 @@
     "email": "stebbotho@blogger.com",
     "phoneNumber": "+36 46 836 4520",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf8" },
@@ -507,7 +507,7 @@
     "email": "sibanp@google.es",
     "phoneNumber": "+36 16 692 9701",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cf9" },
@@ -522,7 +522,7 @@
     "email": "lovingtonq@alibaba.com",
     "phoneNumber": "+36 21 480 0096",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cfa" },
@@ -537,7 +537,7 @@
     "email": "mmelator@alibaba.com",
     "phoneNumber": "+36 46 665 9642",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cfb" },
@@ -552,7 +552,7 @@
     "email": "bgiacobos@google.es",
     "phoneNumber": "+36 00 702 7594",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cfc" },
@@ -567,7 +567,7 @@
     "email": "cvargat@miibeian.gov.cn",
     "phoneNumber": "+36 52 528 3548",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cfd" },
@@ -582,7 +582,7 @@
     "email": "splainu@skyrock.com",
     "phoneNumber": "+36 33 069 4922",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cfe" },
@@ -597,7 +597,7 @@
     "email": "gmougenelv@state.tx.us",
     "phoneNumber": "+36 76 018 3232",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cff" },
@@ -612,7 +612,7 @@
     "email": "cblanckleyw@un.org",
     "phoneNumber": "+36 22 709 2885",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7d00" },
@@ -627,7 +627,7 @@
     "email": "imosdellx@noaa.gov",
     "phoneNumber": "+36 69 430 8919",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7d01" },
@@ -642,7 +642,7 @@
     "email": "srosenbushy@phoca.cz",
     "phoneNumber": "+36 43 337 1385",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7d02" },
@@ -657,7 +657,7 @@
     "email": "pcorradeschiz@biglobe.ne.jp",
     "phoneNumber": "+36 63 372 8506",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7d03" },
@@ -672,7 +672,7 @@
     "email": "ccraghead10@drupal.org",
     "phoneNumber": "+36 25 824 6785",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7d04" },
@@ -687,7 +687,7 @@
     "email": "dduly11@privacy.gov.au",
     "phoneNumber": "+36 00 173 1775",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7d05" },
@@ -702,7 +702,7 @@
     "email": "ritskovitz12@businessweek.com",
     "phoneNumber": "+36 00 687 2542",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   },
   {
     "_id": { "$oid": "652f85c4fc13ae3d596c7d06" },
@@ -717,6 +717,6 @@
     "email": "bevanson13@usnews.com",
     "phoneNumber": "+36 93 909 6785",
     "roles": ["member"],
-    "preferences": { "ui.theme": "dark", "ui.language": "hu_HU" }
+    "preferences": { "colorMode": "dark", "language": "hu_HU" }
   }
 ]
