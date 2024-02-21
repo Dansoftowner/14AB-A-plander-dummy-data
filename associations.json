@@ -1,49 +1,49 @@
 [
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7cdf" },
-    "name": "Baráti Polgárõr Egyesület",
+    "name": "Baráti Polgárőr Egyesület",
     "location": "9081 Győrújbarát Fő u. 1",
     "certificate": "08/0001"
   },
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7ce0" },
-    "name": "Börcsi Polgárõr Egyesület",
+    "name": "Börcsi Polgárőr Egyesület",
     "location": "9152 Börcs Erzsébet tér 3",
     "certificate": "08/0019"
   },
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7ce1" },
-    "name": "Csikvándi Polgárõr Egyesület",
+    "name": "Csikvándi Polgárőr Egyesület",
     "location": "9127 Csikvánd Rákóczi u. 24",
     "certificate": "08/0021"
   },
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7ce2" },
-    "name": "Gyõr-Újvárosi Polgárõr Egyesület",
+    "name": "Győr-Újvárosi Polgárőr Egyesület",
     "location": "9025 Győr Bálint Mihály u. 43 fszt. 7",
     "certificate": "08/0029"
   },
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7ce3" },
-    "name": "Kisbajcs-Szögye Polgárõr Egyesület",
+    "name": "Kisbajcs-Szögye Polgárőr Egyesület",
     "location": "9062 Kisbajcs Kossuth u. 1",
     "certificate": "08/0034"
   },
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7ce4" },
-    "name": "Koroncói Polgárõr Egyesület",
+    "name": "Koroncói Polgárőr Egyesület",
     "location": "9113. Koroncó Rákóczi utca 48",
     "certificate": "08/0035"
   },
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7ce5" },
-    "name": "Kunsziget Község Polgárõrsége",
+    "name": "Kunsziget Község Polgárőrsége",
     "location": "9184 Kunsziget Ifjúság utca 21",
     "certificate": "08/0036"
   },
   {
     "_id": { "$oid": "652f7b95fc13ae3ce86c7ce6" },
-    "name": "Levéli Polgárõr Egyesület",
+    "name": "Levéli Polgárőr Egyesület",
     "location": "9221 Levél Fő u. 30",
     "certificate": "08/0037"
   }
