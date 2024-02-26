@@ -120,6 +120,21 @@
     "preferences": { "colorMode": "light", "language": "hu_HU" }
   },
   {
+    "_id": { "$oid": "65dc7fb139da4b8c7214def8" },
+    "isRegistered": true,
+    "association": { "$oid": "65dc7f77730fda93f1a85a28" },
+    "username": "toth.gyula",
+    "password": "$2a$12$3F.BKnOa2CaJNvuoZgvtHubOzTeUqXLSGk.Z73i4pGPdxGcUkOASS",
+    "guardNumber": "8044451",
+    "name": "Tóth Gyula",
+    "address": "24 Londonderry Avenue",
+    "idNumber": "947213AW",
+    "email": "tgy0723@gmail.com",
+    "phoneNumber": "+36 66 378 5325",
+    "roles": ["member", "president"],
+    "preferences": { "colorMode": "light", "language": "hu_HU" }
+  },
+  {
     "_id": { "$oid": "652f85c4fc13ae3d596c7cdf" },
     "isRegistered": true,
     "association": { "$oid": "652f7b95fc13ae3ce86c7ce3" },

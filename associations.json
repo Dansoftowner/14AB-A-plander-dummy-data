@@ -46,5 +46,11 @@
     "name": "Levéli Polgárőr Egyesület",
     "location": "9221 Levél Fő u. 30",
     "certificate": "08/0037"
+  },
+  {
+    "_id": { "$oid": "65dc7f77730fda93f1a85a28" },
+    "name": "Hegyeshalmi Polgárőr Egyesület",
+    "location": "9222 Hegyeshalom Fő utca 134.",
+    "certificate": "08/0031"
   }
 ]
